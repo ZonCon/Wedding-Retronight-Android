@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/hrushim/StudioProjects/Zoncon_Wedding_Retronight/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="/Users/hrushim/StudioProjects/Zoncon_Wedding_Retronight/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.0_52617a09459e08ddbe04ffe9b0e2c6e1b5f8432c.jar" />
+    </item>
+    <item
+        jar="/Users/hrushim/StudioProjects/Zoncon_Wedding_Retronight/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="551e78f21acf69ebfb489c0e79647824c838013e">
+        <dex dex="/Users/hrushim/StudioProjects/Zoncon_Wedding_Retronight/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-cast-8.4.0_87b47b45285c870fc0059089787e28d64736c77c.jar" />
+    </item>
+    <item
+        jar="/Users/hrushim/StudioProjects/Zoncon_Wedding_Retronight/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="/Users/hrushim/StudioProjects/Zoncon_Wedding_Retronight/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.0_e3b7a6b4ccb2c8207944dfce2e9d0db0ca19670a.jar" />
+    </item>
+    <item
+        jar="/Users/hrushim/MeGo/platforms/android-sdk-macosx/extras/android/m2repository/com/android/support/support-annotations/23.0.0/support-annotations-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="/Users/hrushim/StudioProjects/Zoncon_Wedding_Retronight/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.0_dbff545bb8e5d3fd3114d6e8f6de10a08ff52b59.jar" />
+    </item>
+    <item
+        jar="/Users/hrushim/StudioProjects/Zoncon_Wedding_Retronight/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="/Users/hrushim/StudioProjects/Zoncon_Wedding_Retronight/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-appindexing-8.4.0_b085dba28e035d71e238a5edbabdedfd59e32866.jar" />
+    </item>
+    <item
+        jar="/Users/hrushim/StudioProjects/Zoncon_Wedding_Retronight/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="0194a7409c40de94fb539d4ad9928ec5d47afeb7">
+        <dex dex="/Users/hrushim/StudioProjects/Zoncon_Wedding_Retronight/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-safetynet-8.4.0_d0942381c373b747a6115fed7c188f563324c49f.jar" />
+    </item>
+    <item
+        jar="/Users/hrushim/StudioProjects/Zoncon_Wedding_Retronight/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a8412b654dab86d57bf90683367488211c8a81f1">
+        <dex dex="/Users/hrushim/StudioProjects/Zoncon_Wedding_Retronight/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-location-8.4.0_266cce909eb5ea51a3ddd6daccb4445f01b08c06.jar" />
+    </item>
+    <item
+        jar="/Users/hrushim/StudioProjects/Zoncon_Wedding_Retronight/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="/Users/hrushim/StudioProjects/Zoncon_Wedding_Retronight/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-8.4.0_1d85ce554e125420779255fcaf500267fc906347.jar" />
+    </item>
+    <item
+        jar="/Users/hrushim/StudioProjects/Zoncon_Wedding_Retronight/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b36f30ac5ee5d5214f4b1e2ac49f11889d58e71a">
+        <dex dex="/Users/hrushim/StudioProjects/Zoncon_Wedding_Retronight/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-drive-8.4.0_aa289badfa830f57dc563ae54369cebb83c24927.jar" />
+    </item>
+    <item
+        jar="/Users/hrushim/StudioProjects/Zoncon_Wedding_Retronight/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1a78298e7724d5440d210bcb946b3493250d354d">
+        <dex dex="/Users/hrushim/StudioProjects/Zoncon_Wedding_Retronight/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-plus-8.4.0_5a9400431a4485cced414f0572ec80465d5d3370.jar" />
+    </item>
+    <item
+        jar="/Users/hrushim/StudioProjects/Zoncon_Wedding_Retronight/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="/Users/hrushim/StudioProjects/Zoncon_Wedding_Retronight/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-8.4.0_d3349bd34864e2af12aa9c352599a3e42c32da8d.jar" />
+    </item>
+    <item
+        jar="/Users/hrushim/StudioProjects/Zoncon_Wedding_Retronight/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="/Users/hrushim/StudioProjects/Zoncon_Wedding_Retronight/app/build/intermediates/pre-dexed/debug/com.android.support-mediarouter-v7-23.0.0_49c692fa02405afe4c5fd08dda52976dbd2bb2a9.jar" />
+    </item>
+    <item
+        jar="/Users/hrushim/StudioProjects/Zoncon_Wedding_Retronight/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b82b8e847173c28efffcd291b2a0b1ae9ad17fa4">
+        <dex dex="/Users/hrushim/StudioProjects/Zoncon_Wedding_Retronight/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-identity-8.4.0_cb832b3cc1f96672f66a4894fddf3a6fb101ca34.jar" />
+    </item>
+    <item
+        jar="/Users/hrushim/StudioProjects/Zoncon_Wedding_Retronight/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3a364cc6b698d1b3b2d284f64618daaa7fe77ddf">
+        <dex dex="/Users/hrushim/StudioProjects/Zoncon_Wedding_Retronight/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-games-8.4.0_b43920e9921db800700b9b485b9aacbfb9ac515f.jar" />
+    </item>
+    <item
+        jar="/Users/hrushim/StudioProjects/Zoncon_Wedding_Retronight/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c54246475c1bb64ac6857d1320364bfbfeda2c46">
+        <dex dex="/Users/hrushim/StudioProjects/Zoncon_Wedding_Retronight/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-fitness-8.4.0_eb82e3ad58ffa7bea64d00460c2e9ae9ee0fc4b5.jar" />
+    </item>
+    <item
+        jar="/Users/hrushim/StudioProjects/Zoncon_Wedding_Retronight/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9cad249cf62751a323d9af568caf12284b7d6062">
+        <dex dex="/Users/hrushim/StudioProjects/Zoncon_Wedding_Retronight/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-nearby-8.4.0_31dbff5eb50d4bd9b8df92b6de602e464782a296.jar" />
+    </item>
+    <item
+        jar="/Users/hrushim/StudioProjects/Zoncon_Wedding_Retronight/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="f2df436a8f02ce7e4d7d209671fc45f97c470f0e">
+        <dex dex="/Users/hrushim/StudioProjects/Zoncon_Wedding_Retronight/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-wallet-8.4.0_007876a01b5d1ed1a9f790558b3f488b43b9506f.jar" />
+    </item>
+    <item
+        jar="/Users/hrushim/StudioProjects/Zoncon_Wedding_Retronight/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="dfecc4d835cdabcdecf7e95f0d20a3ef1e9d8ef4">
+        <dex dex="/Users/hrushim/StudioProjects/Zoncon_Wedding_Retronight/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-vision-8.4.0_cdc313f1ce3a118e075e3a408aea813f87a4efa8.jar" />
+    </item>
+    <item
+        jar="/Users/hrushim/StudioProjects/Zoncon_Wedding_Retronight/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="/Users/hrushim/StudioProjects/Zoncon_Wedding_Retronight/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.0_a1cb3755ca7fb3a21b584cf8bbc85ce1387733fc.jar" />
+    </item>
+    <item
+        jar="/Users/hrushim/StudioProjects/Zoncon_Wedding_Retronight/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1c9f35e952b212c843f7bd2c7eec8e82ad95602e">
+        <dex dex="/Users/hrushim/StudioProjects/Zoncon_Wedding_Retronight/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-analytics-8.4.0_e4a847e23941482a545bdd0e4e281990acd82a5b.jar" />
+    </item>
+    <item
+        jar="/Users/hrushim/StudioProjects/Zoncon_Wedding_Retronight/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="/Users/hrushim/StudioProjects/Zoncon_Wedding_Retronight/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.0_49d35612c1034631090a45dcf9299d611b946565.jar" />
+    </item>
+    <item
+        jar="/Users/hrushim/StudioProjects/Zoncon_Wedding_Retronight/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9fe026fb4c7fce21bc5142f6e1bdf844f28061ac">
+        <dex dex="/Users/hrushim/StudioProjects/Zoncon_Wedding_Retronight/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-appinvite-8.4.0_978ecf3a8e4b4a28a5b63f2c4f4a7267f1f55cf3.jar" />
+    </item>
+    <item
+        jar="/Users/hrushim/StudioProjects/Zoncon_Wedding_Retronight/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2d7fe76982677315c4dc4edfb459c8ca718a9d4c">
+        <dex dex="/Users/hrushim/StudioProjects/Zoncon_Wedding_Retronight/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-gcm-8.4.0_75deba2d4b2064b4ca10fdb87c6aaf94a01e5c58.jar" />
+    </item>
+    <item
+        jar="/Users/hrushim/StudioProjects/Zoncon_Wedding_Retronight/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="08d34b2d135c1cc96ab506fd8bf6916d1e2f391a">
+        <dex dex="/Users/hrushim/StudioProjects/Zoncon_Wedding_Retronight/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-panorama-8.4.0_b905a435d14608ad6a85a63e8fbb28cff2d6dd51.jar" />
+    </item>
+    <item
+        jar="/Users/hrushim/StudioProjects/Zoncon_Wedding_Retronight/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e167a34eaca0b31704212f43f9576ea84e05046f">
+        <dex dex="/Users/hrushim/StudioProjects/Zoncon_Wedding_Retronight/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-wearable-8.4.0_af46b5616946d7bbb1089a81e594044bd2bd296b.jar" />
+    </item>
+    <item
+        jar="/Users/hrushim/StudioProjects/Zoncon_Wedding_Retronight/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="966e5771a5a2ebfb31bf00d7cd6cd2546d245517">
+        <dex dex="/Users/hrushim/StudioProjects/Zoncon_Wedding_Retronight/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-8.4.0_0006f372b9fc2c77225f627eb60a1c1096e6c338.jar" />
+    </item>
+    <item
+        jar="/Users/hrushim/StudioProjects/Zoncon_Wedding_Retronight/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="04de44f90606c77f3b28cf44861f306290505aac">
+        <dex dex="/Users/hrushim/StudioProjects/Zoncon_Wedding_Retronight/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-maps-8.4.0_e97ff83c0812b09d62d656eef0a8f90e34a957d0.jar" />
+    </item>
+    <item
+        jar="/Users/hrushim/StudioProjects/Zoncon_Wedding_Retronight/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b5e7892fb0708e792e0e933c4c0a0ca0ac7831fb">
+        <dex dex="/Users/hrushim/StudioProjects/Zoncon_Wedding_Retronight/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-ads-8.4.0_b3878d6b6569e17eb162f7678141808c1e9d292c.jar" />
+    </item>
+    <item
+        jar="/Users/hrushim/StudioProjects/Zoncon_Wedding_Retronight/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-measurement/8.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="613298b7aa012f121ce542881c0a599ebd8078f2">
+        <dex dex="/Users/hrushim/StudioProjects/Zoncon_Wedding_Retronight/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-measurement-8.4.0_230aebc1dd9f7a9c4ec3d6897eb19ed205de8223.jar" />
+    </item>
+
+</items>
